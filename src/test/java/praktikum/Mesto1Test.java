@@ -1,3 +1,5 @@
+package praktikum;
+
 import io.qameta.allure.Description;
 import io.qameta.allure.Step;
 import io.qameta.allure.junit4.DisplayName;
